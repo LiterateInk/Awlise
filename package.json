@@ -1,7 +1,7 @@
 {
   "name": "awlise",
   "version": "0.0.0",
-  "description": "An awesome API wrapper for Alise.",
+  "description": "An awmazing API wrapper for Alise.",
   "repository": "https://github.com/LiterateInk/Awlise",
   "sideEffects": false,
   "main": "./dist/index.js",

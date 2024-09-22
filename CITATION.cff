@@ -12,7 +12,7 @@ repository-code: 'https://github.com/LiterateInk/Awlise'
 url: 'https://docs.literate.ink/awlise'
 repository-artifact: 'https://www.npmjs.com/package/awlise'
 abstract: >-
-  An awesome API wrapper for Alise.
+  An awmazing API wrapper for Alise.
 keywords:
   - alise
   - wrapper

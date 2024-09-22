@@ -1,4 +1,4 @@
-<img alt="Awlise: An awesome API wrapper for Alise" src="https://raw.githubusercontent.com/LiterateInk/Awlise/index/.github/assets/banner.svg" width="100%" />
+<img alt="Awlise: An awmazing API wrapper for Alise" src="https://raw.githubusercontent.com/LiterateInk/Awlise/index/.github/assets/banner.svg" width="100%" />
 
 *This library **is not** affiliated with [Alise](https://alise.net/) in any way.*
 
